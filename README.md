@@ -18,9 +18,9 @@
 ### output.txt: file used to load and extract key and value contents
 
 ## To run the program and all of its functionalities, one command is created for each function as follows:
-### python3 project3.py create <indexfile>
-### python3 project3.py insert <indexfile> <key> <value>
-### python3 project3.py search <indexfile> <key>
-### python3 project3.py load <indexfile> <csvfile>
-### python3 project3.py print <indexfile>
-### python3 project3.py extract <indexfile> <outputfile>
+### python3 project3.py create (indexfile)
+### python3 project3.py insert (indexfile) (key) (value)
+### python3 project3.py search (indexfile) (key)
+### python3 project3.py load (indexfile) (csvfile)
+### python3 project3.py print (indexfile)
+### python3 project3.py extract (indexfile) (outputfile)

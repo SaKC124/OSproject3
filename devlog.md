@@ -18,4 +18,7 @@
 ## Log 6: Dec 10, 6:50pm
 ### Just finished the search function and also did the read and write functionality for the nodes. Now I am going to start working on the class for the B tree index file management and do the read and write functions for the header under that class. After this I'm going to work on the print function and maybe add a helper function to help with byte conversion and add any touches to the program that is needed.
 
+## Log 7: Dec 10: 8:57pm
+### I finished the B tree file index class, and did the print and load function, as well as a function to create an index. I created some helper functions also. I think I'm pretty much done, I don't know if I'm missing anything, so the only way to find out is by testing the code.
+
 ##

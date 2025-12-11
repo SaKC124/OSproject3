@@ -15,4 +15,7 @@
 ## Log 5: Dec 10, 6:19pm
 ### Just finished the insertion parts and now I'm starting to work on search, which will be definitely shorter than B+ trees insertion. After this, I will work on the index file part for the B+ tree. I will make this a separate class with its own functionalities so it remains separate from everything else and called when needed in main. The functions in this class would be a read and write header, as these are important to easily find the nodes in the file when searching. I similarly need to do a read and write functionality for the contents of the nodes, which won't be in the class, but will rely on the headers. So first I'm going to do the search method first right now
 
+## Log 6: Dec 10, 6:50pm
+### Just finished the search function and also did the read and write functionality for the nodes. Now I am going to start working on the class for the B tree index file management and do the read and write functions for the header under that class. After this I'm going to work on the print function and maybe add a helper function to help with byte conversion and add any touches to the program that is needed.
+
 ##

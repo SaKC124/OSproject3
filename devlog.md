@@ -12,4 +12,7 @@
 ## Log 4: Dec 10, 5:42pm
 ### I'm probably like almost 70% done with the insertion part, but I have made some changes with it mid-way through coding so that I can structure the functionality better. The action of inserting is going to be one method, and then you have a split method called when necessary that will split the node when necessary. This is to make the program run efficiently because we wouldn't need to split all the time, and it makes the insert method neat and simple. To supplement and help with that, I will add a separate functionality to shift keys and assign them to nodes that are not full, or else they would split. As I'm doing the insertionimplementation for the B+ tree, I'm also doing the B tree node structure by creating a node class.
 
+## Log 5: Dec 10, 6:19pm
+### Just finished the insertion parts and now I'm starting to work on search, which will be definitely shorter than B+ trees insertion. After this, I will work on the index file part for the B+ tree. I will make this a separate class with its own functionalities so it remains separate from everything else and called when needed in main. The functions in this class would be a read and write header, as these are important to easily find the nodes in the file when searching. I similarly need to do a read and write functionality for the contents of the nodes, which won't be in the class, but will rely on the headers. So first I'm going to do the search method first right now
+
 ##

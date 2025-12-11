@@ -30,4 +30,7 @@
 ## Log 10: Dec 10, 10:58pm
 ### I fixed the the issue with the searching. The problem was that I didn't update the root id even though I wrote the node to disk, which is why it couldn't find the key. I got the search to work now I'm going to see if the other commands work
 
-##
+## Log 11: Dec 10, 11:17pm
+### I checked all commands to see if there were any issues and it looks like everythin is running as expected with no errors. So I think I'm pretty much done with the code and ready to submit
+
+

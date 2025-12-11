@@ -21,4 +21,10 @@
 ## Log 7: Dec 10: 8:57pm
 ### I finished the B tree file index class, and did the print and load function, as well as a function to create an index. I created some helper functions also. I think I'm pretty much done, I don't know if I'm missing anything, so the only way to find out is by testing the code.
 
+## Log 8: Dec 10, 9:23pm
+### Running into many syntax and referencing errors so I'm trying to see if I typed everything right and fixing them, it's taking time mainly because editing code on command line is a pain in the butt. While fixing it, I'm going to add comments on my code that will stick out easily to I can identify what I'm looking for instantly in case there are more errors I would need to fix. I should've added comments on my code as I was coding, but I was too lazy
+
+## Log 9: Dec 10, 10:25pm
+### I fixed the syntax issues but running into index pointing issue where the insert part shows no problem but I can't search properly. I'm going to take a look at the B tree index class and create index method and see if thats the problem
+
 ##

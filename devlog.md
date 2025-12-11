@@ -27,4 +27,7 @@
 ## Log 9: Dec 10, 10:25pm
 ### I fixed the syntax issues but running into index pointing issue where the insert part shows no problem but I can't search properly. I'm going to take a look at the B tree index class and create index method and see if thats the problem
 
+## Log 10: Dec 10, 10:58pm
+### I fixed the the issue with the searching. The problem was that I didn't update the root id even though I wrote the node to disk, which is why it couldn't find the key. I got the search to work now I'm going to see if the other commands work
+
 ##
